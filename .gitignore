@@ -1,3 +1,6 @@
+.cache
+json-query
+
 # Prerequisites
 *.d
 
