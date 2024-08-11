@@ -1,25 +1,25 @@
 [
 {
   "directory": "/Users/redinsn/development/json-query",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/json-query.dir/src/main.c.o -c /Users/redinsn/development/json-query/src/main.c",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/opt/homebrew/Cellar/json-c/0.17/include -I/opt/homebrew/Cellar/json-c/0.17/include/json-c -I/opt/homebrew/Cellar/jansson/2.14/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/json-query.dir/src/main.c.o -c /Users/redinsn/development/json-query/src/main.c",
   "file": "/Users/redinsn/development/json-query/src/main.c",
   "output": "CMakeFiles/json-query.dir/src/main.c.o"
 },
 {
   "directory": "/Users/redinsn/development/json-query",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/json-query.dir/src/query.c.o -c /Users/redinsn/development/json-query/src/query.c",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/opt/homebrew/Cellar/json-c/0.17/include -I/opt/homebrew/Cellar/json-c/0.17/include/json-c -I/opt/homebrew/Cellar/jansson/2.14/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/json-query.dir/src/query.c.o -c /Users/redinsn/development/json-query/src/query.c",
   "file": "/Users/redinsn/development/json-query/src/query.c",
   "output": "CMakeFiles/json-query.dir/src/query.c.o"
 },
 {
   "directory": "/Users/redinsn/development/json-query",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/json-query.dir/src/parser.c.o -c /Users/redinsn/development/json-query/src/parser.c",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/opt/homebrew/Cellar/json-c/0.17/include -I/opt/homebrew/Cellar/json-c/0.17/include/json-c -I/opt/homebrew/Cellar/jansson/2.14/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/json-query.dir/src/parser.c.o -c /Users/redinsn/development/json-query/src/parser.c",
   "file": "/Users/redinsn/development/json-query/src/parser.c",
   "output": "CMakeFiles/json-query.dir/src/parser.c.o"
 },
 {
   "directory": "/Users/redinsn/development/json-query",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/cc   -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/json-query.dir/src/utils.c.o -c /Users/redinsn/development/json-query/src/utils.c",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc  -I/opt/homebrew/Cellar/json-c/0.17/include -I/opt/homebrew/Cellar/json-c/0.17/include/json-c -I/opt/homebrew/Cellar/jansson/2.14/include -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/json-query.dir/src/utils.c.o -c /Users/redinsn/development/json-query/src/utils.c",
   "file": "/Users/redinsn/development/json-query/src/utils.c",
   "output": "CMakeFiles/json-query.dir/src/utils.c.o"
 }
